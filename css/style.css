@@ -1,0 +1,40 @@
+body{background-color: rgb(3, 184, 123);}
+input{
+    font-size: 25px;
+}
+.btn1{border: none;
+margin-left: -42px;
+}
+
+.btn1 i{
+    font-size: 25px;
+    color: #00D4FF;
+}
+
+.model{
+    position:relative ;
+    left: 37%;
+    text-align: center;
+}
+.hidden{display: none;}
+
+.hidden input{
+    padding: 0.5rem;
+    border: none;
+}
+.kit1{opacity: 0.5;}
+.kit{opacity: 1;}
+.trash , .done{
+    border:none;
+    padding: 12px;
+    margin-left: -3.3px;
+    background-color: rgba(73 , 204 , 73);
+    color: white;
+}
+.trash  { background-color: red;}
+.select{
+    position: relative;
+    left: 63%;
+    margin-top: -46px;
+    font-size: 20px;
+}
